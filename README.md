@@ -9,5 +9,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-suryo811-red)](https://github.com/suryo811)
 [![Blog](https://img.shields.io/badge/Blog-BinaryBeat-blueviolet)](https://binarybeat.substack.com/)
+[![Website](https://img.shields.io/badge/Website-suryo811.github.io-informational)](https://suryo811.github.io/)
 
 
