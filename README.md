@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 🙏 I'm Suryoday Kaushik (Suryo) 👋
 
-<!--
-**suryo811/suryo811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something cool
+- 🌱 I’m currently learning flutter
+- 📑 You can read my blogs at [Binary Beat](https://binarybeat.substack.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-suryo811-red)](https://github.com/suryo811)
+[![Blog](https://img.shields.io/badge/Blog-BinaryBeat-blueviolet)](https://binarybeat.substack.com/)
+
+
