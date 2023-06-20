@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning flutter and backend technologies
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-suryo811-red)](https://github.com/suryo811)
